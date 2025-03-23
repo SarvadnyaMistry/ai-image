@@ -6,7 +6,7 @@ import { Routes,Route } from 'react-router-dom'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
 import Login from './components/Login'
-import { AppContext } from './context/AppContext'
+import { AppContext } from './context/AppContext.jsx'
 import { ToastContainer, toast } from 'react-toastify';
 
 
